@@ -1,5 +1,3 @@
-PrismaLog is a simple time log application to track time per task in a story and project.
-
 Introduction
 ------------
 
