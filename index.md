@@ -20,7 +20,7 @@ Projects can be created at any time; a double-click on a project line opens proj
 
 Each project (as well as each story and task) gets a name and can (optionally) get a comment.
 
-![Buttons](images/img/17.png)
+![Buttons](img/17.png)
 
 To create new projects (stories or tasks), use the buttons in the toolbar. The left button is used to create a new project. The second button is used to create stories for a project. To do this, the corresponding project must be selected beforehand.
 
@@ -32,5 +32,5 @@ The recorded log entries can be exported as a csv file. This makes it possible t
 
 The export function can be found in the menu bar of the application at "File -> Export"
 
-![Export-Menu](img/images/16.png)
+![Export-Menu](img/16.png)
 
