@@ -12,7 +12,9 @@ Introduction
 
 After startup, the application shows all existing projects (or empty tables). The layout shows projects, the corresponding stories for each project and the tasks for each project. A multiple number of log entries can be created for each task.
 
-Note: Double click on a row opens the edit mode for the clicked entry.
+<div class="extended-markdown tip border rounded-1 mb-4 p-3 border-blue bg-blue-light f5">
+<Strong>Note:</Strong> Double click on a row opens the edit mode for the clicked entry.
+</div>
 
 ### Content
 
