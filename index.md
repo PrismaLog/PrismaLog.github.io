@@ -21,6 +21,7 @@ After startup, the application shows all existing projects (or empty tables). Th
 - Definition
 - Functions
 - Feature list
+- [Privacy Policy](privacy_policy.md)
 
 Definition
 ----------
