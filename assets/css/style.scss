@@ -24,8 +24,10 @@
     margin-bottom: 24px !important;
 }
 .bg-blue-light {
-    background-color: 
-    #f1f8ff !important;
+    background-color: #f1f8ff !important;
+}
+.bg-red-light {
+    background-color: #fff8f1;
 }
 .rounded-1 {
     border-radius: 3px !important;
@@ -39,6 +41,9 @@
 }
 .border-blue {
     border-color: #0366d6 !important;
+}
+.border-red {
+    border: 1px solid #d66603 !important;
 }
 * {
     box-sizing: border-box;

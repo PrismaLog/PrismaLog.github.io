@@ -48,6 +48,10 @@ The third button for new tasks has to be used accordingly. Only after selecting 
 
 The recorded log entries can be exported as a csv file. This makes it possible to import them into other applications in order to analyze the workload.
 
+<div class="extended-markdown tip border rounded-1 mb-4 p-3 border-red bg-red-light f5">
+<Strong>Note:</Strong> Only the log entries are exported. Projects, stories and tasks without log entries will not be exported!
+</div>
+
 The export function can be found in the menu bar of the application at "File -> Export"
 
 ![Export-Menu](img/16.png)
