@@ -1,5 +1,3 @@
-<img src="img/AppLogo.png" class="header-logo" /> 
-
 Introduction
 ------------
 
