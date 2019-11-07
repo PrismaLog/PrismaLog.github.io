@@ -33,6 +33,6 @@ If our information practices change at any time in the future, we will post thos
 Contact
 -------
 
-© 2019 Thomas Kalippke
-Owner contact email: prismatools@t-online.de
+© 2019 Thomas Kalippke - contact email: prismatools@t-online.de
 
+---
