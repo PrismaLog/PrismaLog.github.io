@@ -1,7 +1,18 @@
+The Idea
+--------
+
+The idea behind PrismaLog is to use a simple time tracking application. Most applications try to cover the complete process with many functions or to combine the simple process into a smart design. This often leads to complex apps. 
+
+PrismaLog has been intentionally reduced to a few features. Reporting, analytics, invoicing, scheduling and many other tasks can be done with the exported data in other applications.
+
+With PrismaLog, the focus is on the simplest possible time recording with a clearly defined specification of a 3-level hierarchy. First the projects are defined, then the stories and then the tasks. Any number of log entries can then be created for each task.
+
 Introduction
 ------------
 
 After startup, the application shows all existing projects (or empty tables). The layout shows projects, the corresponding stories for each project and the tasks for each project. A multiple number of log entries can be created for each task.
+
+Note: Double click on a row opens the edit mode for the clicked entry.
 
 ### Content
 
