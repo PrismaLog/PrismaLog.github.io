@@ -30,18 +30,19 @@
 .rounded-1 {
     border-radius: 3px !important;
 }
-.border-blue {
-    border-color: 
-    #0366d6 !important;
-}
 .border {
-    border: 1px 
-    #e1e4e8 solid !important;
-        border-top-color: rgb(225, 228, 232);
-        border-right-color: rgb(225, 228, 232);
-        border-bottom-color: rgb(225, 228, 232);
-        border-left-color: rgb(225, 228, 232);
+    border: 1px solid !important;
+    border-top-color: rgb(225, 228, 232);
+    border-right-color: rgb(225, 228, 232);
+    border-bottom-color: rgb(225, 228, 232);
+    border-left-color: rgb(225, 228, 232);
+}
+.border-blue {
+    border-color: #0366d6 !important;
 }
 * {
     box-sizing: border-box;
+}
+.extended-markdown p {
+    margin: 0;
 }
