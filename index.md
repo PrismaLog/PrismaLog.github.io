@@ -5,7 +5,7 @@ The idea behind PrismaLog is to use a simple time tracking application. Most app
 
 PrismaLog has been intentionally reduced to a few features. Reporting, analytics, invoicing, scheduling and many other tasks can be done with the exported data in other applications.
 
-With PrismaLog, the focus is on the simplest possible time recording with a clearly defined specification of a 3-level hierarchy. First the projects are defined, then the stories and then the tasks. Any number of log entries can then be created for each task.
+With PrismaLog, the focus is on the simplest possible time recording with a clearly defined specification of a 3-level hierarchy. First the projects are defined, then the stories and then the tasks. Under this hierarchy, as many log entries as desired will be created for each task.
 
 Introduction
 ------------
