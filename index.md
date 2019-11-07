@@ -116,3 +116,7 @@ Note: Double click on a row opens the edit mode for the clicked entry.
 - Export as simple csv-file with basic information
 - Export as detailed csv-file with IDs of all records
 
+
+- - -
+
+[Privacy Policy](privacy_policy.md)
