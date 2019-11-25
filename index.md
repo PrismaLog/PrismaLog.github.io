@@ -53,9 +53,9 @@ Favorites are used to quickly start and stop a task. A favorite can be set in a 
 
 Note: Adding new favorites is only possible with stopped logging. 
 
-If a task is set as a favorite a new entry is available in the statis bar of the PrismaLog Mac OS Icon.
+If a task is set as a favorite a new entry is available in the status bar of the PrismaLog Mac OS Icon.
 
-In the symbol bar it is also possible to reopen the window of the application or to close the application.
+In the status bar it is also possible to reopen the window of the application or to close the application.
 
 
 ### Export
