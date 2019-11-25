@@ -90,8 +90,8 @@ Note: Double click on a row opens the edit mode for the clicked entry.
 - List with names and time per project
 - sortable columns
 - double click opens edit mode to the clicked project
-- Information for project comment
-- Delete function
+	- edit name and comment
+	- Delete function
 
 
 ### Stories
@@ -99,18 +99,19 @@ Note: Double click on a row opens the edit mode for the clicked entry.
 - List with names and time per story
 - sortable columns
 - double click opens edit mode to the clicked story
-- Information for story comment
-- Delete function
-- Move story to different project (with all of the tasks and logs)
+	- edit name and comment
+	- Delete function
+	- Move story to different project (with all of the tasks and logs)
 
 ### Tasks
 
 - List with names and time per task
 - sortable columns
 - double click opens edit mode to the clicked task
-- Information for task comment
-- Delete function
-- Move task to different project and/or story (with all logs)
+	- edit name and comment
+	- set task as favorite
+	- Delete function
+	- Move task to different project and/or story (with all logs)
 
 ### Logs
 
@@ -124,8 +125,15 @@ Note: Double click on a row opens the edit mode for the clicked entry.
 	- and comment
 - sortable columns
 - double click opens edit mode to the clicked log entry
-- Delete function
-- Move log to different project and/or story and/or task
+	- Edit all entries (begin, end, comment, ...)
+	- Delete log
+	- Move log to different project and/or story and/or task
+
+### Mac OS status bar
+
+- start/stop logging of favorites
+- reopen application window
+- quit application
 
 ### Export
 
