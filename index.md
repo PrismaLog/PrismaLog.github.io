@@ -45,6 +45,19 @@ To create new projects (stories or tasks), use the buttons in the toolbar. The l
 
 The third button for new tasks has to be used accordingly. Only after selecting a story a task can be created for this story. - The recording of the time can be started after a task has been selected (the button with the triangle on the right hand side of the toolbar).
 
+### Favorites
+
+Favorites are used to quickly start and stop a task. A favorite can be set in a task. Double click on a task entry and click the favority icon (on or off).
+
+![status bar icon](img/statusbar-entry.png)
+
+Note: Adding new favorites is only possible with stopped logging. 
+
+If a task is set as a favorite a new entry is available in the statis bar of the PrismaLog Mac OS Icon.
+
+In the symbol bar it is also possible to reopen the window of the application or to close the application.
+
+
 ### Export
 
 The recorded log entries can be exported as a csv file. This makes it possible to import them into other applications in order to analyze the workload.
