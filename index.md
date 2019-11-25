@@ -51,7 +51,9 @@ Favorites are used to quickly start and stop a task. A favorite can be set in a 
 
 ![status bar icon](img/statusbar-entry.png)
 
-Note: Adding new favorites is only possible with stopped logging. 
+<div class="extended-markdown tip border rounded-1 mb-4 p-3 border-red bg-red-light f5">
+<Strong>Note:</Strong> Adding new favorites is only possible with stopped logging. 
+</div>
 
 If a task is set as a favorite a new entry is available in the status bar of the PrismaLog Mac OS Icon.
 
