@@ -55,7 +55,7 @@ Duplicating projects or stories means that the complete project (story) structur
 
 To duplicate a project or a story use the short cut *CMD + D* or click the menu function "Edit -> Duplicate".
 
-![menu duplicate](Duplicate-click.png)
+![menu duplicate](img/Duplicate-click.png)
 
 ### Favorites
 
