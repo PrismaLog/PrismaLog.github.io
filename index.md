@@ -1,11 +1,11 @@
-The Idea
---------
+The simple time tracking application
+------------------------------------
 
 The idea behind PrismaLog is to use a simple time tracking application. Most applications try to cover the complete process with many functions or to combine the simple process into a smart design. This often leads to complex apps. 
 
-PrismaLog has been intentionally reduced to a few features. Reporting, analytics, invoicing, scheduling and many other tasks can be done with the exported data in other applications.
-
 With PrismaLog, the focus is on the simplest possible time recording with a clearly defined specification of a 3-level hierarchy. First the projects are defined, then the stories and then the tasks. Under this hierarchy, as many log entries as desired will be created for each task.
+
+PrismaLog has been intentionally reduced to a few features. Reporting, analytics, invoicing, scheduling and many other tasks can be done with the exported data in other applications.
 
 Introduction
 ------------
@@ -45,6 +45,18 @@ To create new projects (stories or tasks), use the buttons in the toolbar. The l
 
 The third button for new tasks has to be used accordingly. Only after selecting a story a task can be created for this story. - The recording of the time can be started after a task has been selected (the button with the triangle on the right hand side of the toolbar).
 
+### Duplicating projects and stories
+
+Duplicating projects or stories means that the complete project (story) structure will be copied with the same names AND without (!!!) logged entries.
+
+<div class="extended-markdown tip border rounded-1 mb-4 p-3 border-red bg-red-light f5">
+<Strong>Note:</Strong> Duplicating a single task is not possible.
+</div>
+
+To duplicate a project or a story use the short cut *CMD + D* or click the menu function "Edit -> Duplicate".
+
+![menu duplicate](Duplicate-click.png)
+
 ### Favorites
 
 Favorites are used to quickly start and stop a task. A favorite can be set in a task. Double click on a task entry and click the favority icon (on or off).
@@ -59,6 +71,11 @@ If a task is set as a favorite a new entry is available in the status bar of the
 
 In the status bar it is also possible to reopen the window of the application or to close the application.
 
+### Managing favorites
+
+Each Favorite is listed in the favorite list which can be opened with the favorite button in the tool bar. Here it is possible to delete a favorite. To set a task as a new favorite it is necessary to double click this task and tick the favorite icon.
+
+![favorite list](img/Favorites-List.png)
 
 ### Export
 
@@ -82,6 +99,7 @@ Note: Double click on a row opens the edit mode for the clicked entry.
 - Button for creating a new project
 - Button for creating a new story
 - Button for creating a new task
+- Button for managing favorites
 - Button for starting/stopping logging
 - Text box for information
 
