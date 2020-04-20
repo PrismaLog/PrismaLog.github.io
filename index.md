@@ -1,7 +1,7 @@
 The simple time tracking application
 ------------------------------------
 
-The idea behind PrismaLog is to use a simple time tracking application. Most applications try to cover the complete process with many functions or to combine the simple process into a smart design. This often leads to complex apps. 
+The idea behind PrismaLog is to use a simple time tracking application for working at home ("home office"), in agile projects or in other "project environments" (university, school, private projects, ...).
 
 With PrismaLog, the focus is on the simplest possible time recording with a clearly defined specification of a 3-level hierarchy. First the projects are defined, then the stories and then the tasks. In this hierarchy, as many log entries as desired will be created for each task.
 
@@ -41,9 +41,21 @@ Each project (as well as each story and task) gets a name and can (optionally) g
 
 ![Buttons](img/17.png)
 
-To create new projects (stories or tasks), use the buttons in the toolbar. The left button is used to create a new project. The second button is used to create stories for a project. To do this, the corresponding project must be selected beforehand.
+To create new projects (stories or tasks), use the buttons in the toolbar. The left button is used to create a new project.
 
-The third button for new tasks has to be used accordingly. Only after selecting a story a task can be created for this story. - The recording of the time can be started after a task has been selected (the button with the triangle on the right hand side of the toolbar).
+![Buttons](img/PrismaLog-Tutorial-1-Create-Project.gif)
+
+The second button is used to create stories for a project. To do this, the corresponding project must be selected beforehand.
+
+![Buttons](img/PrismaLog-Tutorial-2-Create-Story.gif)
+
+The third button for new tasks has to be used accordingly. Only after selecting a story a task can be created for this story.
+
+![Buttons](img/PrismaLog-Tutorial-3-Create-Task.gif)
+
+The recording of the time can be started after a task has been selected (the button with the triangle on the right hand side of the toolbar).
+
+![Buttons](img/PrismaLog-Tutorial-4-StartStopLog.gif)
 
 ### Duplicating projects and stories
 
@@ -57,11 +69,29 @@ To duplicate a project or a story use the short cut *CMD + D* or click the menu 
 
 ![menu duplicate](img/Duplicate-click.png)
 
+### Editing tasks, stories, project or log entries
+
+Each Entry can be edited to give them an other name, a comment or move it to an other project structure. Here for example a task:
+
+![Buttons](img/PrismaLog-Tutorial-5-EditMoveTask.gif)
+
+This is also usable to editing log entries:
+
+![Buttons](img/PrismaLog-Tutorial-6-EditMoveLog.gif)
+
+### Status bar window
+
+With the status bar icon it's possible to open a small window (status bar window) as uick access to some functions. Here it is possible to re-open or quit the app, to stop the running log or to start/stop a favorite task.
+
+![Buttons](img/PrismaLog-Tutorial-7-StatusBarWindow.gif)
+
+To use a task as a favorite task in the status bar window, it is necessary to tick the favorite icon in the edit mode of a task.
+
 ### Favorites
 
 Favorites are used to quickly start and stop a task. A favorite can be set in a task. Double click on a task entry and click the favority icon (on or off).
 
-![status bar icon](img/statusbar-entry.png)
+![status bar icon](img/PrismaLog-Tutorial-8-SetFavorite.gif)
 
 <div class="extended-markdown tip border rounded-1 mb-4 p-3 border-red bg-red-light f5">
 <Strong>Note:</Strong> Adding new favorites is only possible with stopped logging. 
@@ -87,7 +117,7 @@ The recorded log entries can be exported as a csv file. This makes it possible t
 
 The export function can be found in the menu bar of the application at "File -> Export"
 
-![Export-Menu](img/16.png)
+![Export-Menu](img/PrismaLog-Tutorial-9-Export.gif)
 
 Feature list
 ------------
