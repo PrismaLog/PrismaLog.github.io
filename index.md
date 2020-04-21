@@ -1,5 +1,5 @@
-The simple time tracking application
-------------------------------------
+PrismaLog - The simple time tracking application
+------------------------------------------------
 
 The idea behind PrismaLog is to use a simple time tracking application for working at home ("home office"), in agile projects or in other "project environments" (university, school, private projects, ...).
 
