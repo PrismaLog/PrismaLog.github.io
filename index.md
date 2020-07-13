@@ -35,6 +35,8 @@ For example: A story represents a user feature or use case. A task represents a 
 Functions
 ---------
 
+### Projects
+
 Projects can be created at any time; a double-click on a project line opens project editing.
 
 Each project (as well as each story and task) gets a name and can (optionally) get a comment.
@@ -45,9 +47,13 @@ To create new projects (stories or tasks), use the buttons in the toolbar. The l
 
 ![Buttons](img/PrismaLog-Tutorial-1-Create-Project.gif)
 
+### Stories
+
 The second button is used to create stories for a project. To do this, the corresponding project must be selected beforehand.
 
 ![Buttons](img/PrismaLog-Tutorial-2-Create-Story.gif)
+
+### Tasks
 
 The third button for new tasks has to be used accordingly. Only after selecting a story a task can be created for this story.
 
@@ -185,8 +191,8 @@ Note: Double click on a row opens the edit mode for the clicked entry.
 
 ### Export
 
-- Export as simple csv-file with basic information
-- Export as detailed csv-file with IDs of all records
+- Export a simple csv-file with basic information
+- Export a detailed csv-file with IDs of all records
 
 
 - - -
