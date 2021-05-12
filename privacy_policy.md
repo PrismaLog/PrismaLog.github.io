@@ -4,6 +4,7 @@ PrismaLog - Privacy Policy
 Date: 1st of November 2019
 
 - no registration
+- no abonnement
 - no collection of addresses or other personal data
 - no use of third-party providers in the app
 - no exchange of personal data

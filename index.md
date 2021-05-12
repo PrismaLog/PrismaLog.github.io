@@ -1,6 +1,17 @@
 PrismaLog - The simple time tracking application
 ------------------------------------------------
 
+- no registration
+- no abonnement
+- no collection of addresses or other personal data
+- no use of third-party providers in the app
+- no exchange of personal data
+- no exchange of data with third-party services
+- no cookies
+
+The Idea
+--------
+
 The idea behind PrismaLog is to use a simple time tracking application for working at home ("home office"), in agile projects or in other "project environments" (university, school, private projects, ...).
 
 With PrismaLog, the focus is on the simplest possible time recording with a clearly defined specification of a 3-level hierarchy. First the projects are defined, then the stories and then the tasks. In this hierarchy, as many log entries as desired will be created for each task.
