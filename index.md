@@ -1,6 +1,8 @@
 PrismaLog - The simple time tracking application
 ------------------------------------------------
 
+PrismaLog is a simple time tracking application to track time per task in a story and project.<br /><br /><a href="https://apps.apple.com/de/app/prismalog/id1486886229"><img src="img/Download-AppStore-135x40.svg" /></a>
+
 - no registration
 - no abonnement
 - no collection of addresses or other personal data
